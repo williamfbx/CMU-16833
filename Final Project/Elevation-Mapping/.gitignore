@@ -1,0 +1,12 @@
+**/.vscode/
+
+slam_ws/build/
+slam_ws/Cache/
+slam_ws/CachedData/
+slam_ws/CachedProfilesData/
+slam_ws/Crashpad/
+slam_ws/install/
+**/*Cache*/
+**/*cache*/
+slam_ws/log/
+slam_ws/logs/
